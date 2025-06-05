@@ -93,7 +93,7 @@ A production-ready, scalable recommendation system that combines multiple algori
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-org/recommendation-engine.git
+   git clone https://github.com/salgue441/recommendation-engine.git
    cd recommendation-engine
    ```
 
